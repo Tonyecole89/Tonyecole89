@@ -11,6 +11,7 @@ Grâce à tout ces expériences j'ai appris à développer la compréhension du 
 J'ai développer des coméptences lié au Web tel que : 
 
 FRONT : HTML / CSS / JavaScript
+
 BACK : PHP / SQL 
 
 Donc ça m'a permis d'apprendre à faire des bases de donénes et utiliser des API, 
